@@ -7,7 +7,7 @@ char run =1;
 
 void main(void) {
     TRISB=0; //0b00000000
-    
+    LATB=1;//0b00000001
     while(1){
         LATB=0; //0b00000000
         __delay_ms(250);
@@ -19,6 +19,5 @@ void main(void) {
         }else{
             run *= 2; //0b00001000
         }
-    }
-    
+    }  
 }
