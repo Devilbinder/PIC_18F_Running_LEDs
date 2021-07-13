@@ -2,7 +2,7 @@
 
 This code Demonstrates how to make running LED using the XC8 compiler with MPLAB X and a PIC18F4520.
 
-[![PIC Programming Tutorial #2 - Project Setup](https://img.youtube.com/vi/OQ6hZzkvXMw/0.jpg)](https://www.youtube.com/watch?v=OQ6hZzkvXMw "PIC Programming Tutorial #2 - Project Setup")
+[![Blinky and Running LEDs 🔴 PIC Microcontroller Programming Tutorial #3 MPLAB in C](https://img.youtube.com/vi/OBNpr4BSHA8/0.jpg)](https://www.youtube.com/watch?v=OBNpr4BSHA8 "Blinky and Running LEDs 🔴 PIC Microcontroller Programming Tutorial #3 MPLAB in C")
 
 ☕Coffee Funds☕.
 
